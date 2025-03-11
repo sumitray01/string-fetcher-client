@@ -20,6 +20,18 @@ This project is a Kotlin-based application designed to generate and fetch random
 - Generate random strings
 - Fetch random strings from a content provider
 
+## Tech Stack
+
+- **Kotlin**
+- **Jetpack Compose**
+- **Dagger Hilt**
+- **MVVM Architecture**
+- **Coroutines**
+
 ## Recent Commits
 
 - [String fetcher and generator implementation](https://github.com/sumitray01/string-fetcher-client/commit/c125f778d4bc46d45b22e524e6014ffe803e1e00) by sumitray on 2025-03-11
+
+## Contact
+
+For any questions or inquiries, please contact [sumitray01](https://github.com/sumitray01).
