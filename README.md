@@ -28,10 +28,13 @@ This project is a Kotlin-based application designed to generate and fetch random
 - **MVVM Architecture**
 - **Coroutines**
 
-## Recent Commits
+## Screenshots
 
-- [String fetcher and generator implementation](https://github.com/sumitray01/string-fetcher-client/commit/c125f778d4bc46d45b22e524e6014ffe803e1e00) by sumitray on 2025-03-11
+## ![client-app- screenshots -1](https://github.com/user-attachments/assets/217162e9-08cd-42f9-b67d-265c9a506872)
+![client-app- screenshots-2](https://github.com/user-attachments/assets/4df2dafe-7145-44bb-b870-c5e082c3956d)
+![c![client-app- screenshots-4](https://github.com/user-attachments/assets/a466ce00-69ac-47a1-86dc-109b4b335b35)
+lient-app- screenshots-3](https://github.com/user-attachments/assets/ed3b87ef-791b-4377-a39b-41b93e0163cf)
 
-## Contact
+
 
 For any questions or inquiries, please contact [sumitray01](https://github.com/sumitray01).
